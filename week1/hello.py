@@ -1,0 +1,3 @@
+# This is my first Python script# It prints a greeting messageprint("Hello, World!")
+
+print("Welcome to Python programming!")
